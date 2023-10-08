@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnitaDadi
 - 👀 I’m interested in everything data analysis 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning power BI 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me: 
 
