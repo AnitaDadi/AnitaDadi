@@ -10,6 +10,7 @@ Python: pandas, data cleaning, data extraction, exploratory analysis
 SQL: data querying, aggregation, filtering, business analysis
 Power BI: dashboards, DAX, KPIs, data visualization
 Other: Data validation, business problem-solving, reporting
+
 📊 What I'm Building
 
 I'm currently building practical, end-to-end analytics projects using real-world data, with a focus on answering business questions rather than just creating visualizations.
